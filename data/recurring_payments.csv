@@ -1,0 +1,21 @@
+id,user_id,name,category,amount,frequency,next_due,status,payment_method
+R0001,U001,Apartment Rent,Rent,10000.0,monthly,2026-10-01,active,NetBanking
+R0002,U001,Netflix Premium,Subscriptions,649.0,monthly,2026-09-30,due_soon,Credit Card
+R0003,U001,Cult.Fit Gym Membership,Healthcare,1600.0,monthly,2026-10-10,active,Debit Card
+R0004,U001,Airtel Fiber Broadband,Bills,1200.0,monthly,2026-10-05,active,UPI AutoPay
+R0005,U002,Apartment Rent,Rent,10000.0,monthly,2026-10-01,active,NetBanking
+R0006,U002,Netflix Premium,Subscriptions,649.0,monthly,2026-09-30,due_soon,Credit Card
+R0007,U002,Cult.Fit Gym Membership,Healthcare,1600.0,monthly,2026-10-10,active,Debit Card
+R0008,U002,Airtel Fiber Broadband,Bills,1200.0,monthly,2026-10-05,active,UPI AutoPay
+R0009,U003,Apartment Rent,Rent,10000.0,monthly,2026-10-01,active,NetBanking
+R0010,U003,Netflix Premium,Subscriptions,649.0,monthly,2026-09-30,due_soon,Credit Card
+R0011,U003,Cult.Fit Gym Membership,Healthcare,1600.0,monthly,2026-10-10,active,Debit Card
+R0012,U003,Airtel Fiber Broadband,Bills,1200.0,monthly,2026-10-05,active,UPI AutoPay
+R0013,U004,Apartment Rent,Rent,10000.0,monthly,2026-10-01,active,NetBanking
+R0014,U004,Netflix Premium,Subscriptions,649.0,monthly,2026-09-30,due_soon,Credit Card
+R0015,U004,Cult.Fit Gym Membership,Healthcare,1600.0,monthly,2026-10-10,active,Debit Card
+R0016,U004,Airtel Fiber Broadband,Bills,1200.0,monthly,2026-10-05,active,UPI AutoPay
+R0017,U005,Apartment Rent,Rent,10000.0,monthly,2026-10-01,active,NetBanking
+R0018,U005,Netflix Premium,Subscriptions,649.0,monthly,2026-09-30,due_soon,Credit Card
+R0019,U005,Cult.Fit Gym Membership,Healthcare,1600.0,monthly,2026-10-10,active,Debit Card
+R0020,U005,Airtel Fiber Broadband,Bills,1200.0,monthly,2026-10-05,active,UPI AutoPay

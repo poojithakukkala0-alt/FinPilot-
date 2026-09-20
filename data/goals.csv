@@ -1,0 +1,11 @@
+id,user_id,name,target,current,monthly_contribution,category
+G0001,U001,Emergency Fund,100000.0,40000.0,10000.0,Safety Net
+G0002,U001,New Laptop,60000.0,25000.0,5000.0,Technology
+G0003,U002,Emergency Fund,100000.0,40000.0,10000.0,Safety Net
+G0004,U002,New Laptop,60000.0,25000.0,5000.0,Technology
+G0005,U003,Emergency Fund,100000.0,40000.0,10000.0,Safety Net
+G0006,U003,New Laptop,60000.0,25000.0,5000.0,Technology
+G0007,U004,Emergency Fund,100000.0,40000.0,10000.0,Safety Net
+G0008,U004,New Laptop,60000.0,25000.0,5000.0,Technology
+G0009,U005,Emergency Fund,100000.0,40000.0,10000.0,Safety Net
+G0010,U005,New Laptop,60000.0,25000.0,5000.0,Technology

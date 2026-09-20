@@ -1,0 +1,6 @@
+id,email,name,password,currency,currency_symbol,avatar,created_at
+U001,demo@finpilot.com,Demo User,password123,INR,₹,https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80,2026-06-01
+U002,aarav.sharma@finpilot.com,Aarav Sharma,password123,INR,₹,https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80,2026-06-05
+U003,priya.patel@finpilot.com,Priya Patel,password123,INR,₹,https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80,2026-06-10
+U004,rohit.verma@finpilot.com,Rohit Verma,password123,INR,₹,https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80,2026-06-15
+U005,ananya.iyer@finpilot.com,Ananya Iyer,password123,INR,₹,https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80,2026-06-20
